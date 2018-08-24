@@ -1,0 +1,21 @@
+Array
+(
+    [errors] => Array
+        (
+        )
+
+    [code_id] => 3b29a8C
+    [web_link] => https://code.hackerearth.com/3b29a8C
+    [compile_status] => PHP Parse error:  syntax error, unexpected ';' in /hackerearth/PHP_b39f_d8fc_b128_f886_1511039363/editor_source_2fb3_2c18_defa_f9ec_1511039363.php on line 1
+Errors parsing /hackerearth/PHP_b39f_d8fc_b128_f886_1511039363/editor_source_2fb3_2c18_defa_f9ec_1511039363.php
+
+    [id] => 3b29a8C
+    [async] => 0
+    [message] => OK
+    [run_status] => Array
+        (
+            [status] => CE
+            [status_detail] => Correct the compilation/syntax errors.
+        )
+
+)

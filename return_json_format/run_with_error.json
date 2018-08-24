@@ -1,0 +1,20 @@
+Array
+(
+    [errors] => Array
+        (
+        )
+
+    [code_id] => 2738cfx
+    [web_link] => https://code.hackerearth.com/2738cfx
+    [compile_status] => PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /hackerearth/PHP_c474_0d8a_cc8a_16a4_1511095083/editor_source_3d05_7acc_0628_4249_1511095083.php on line 3 Errors parsing /hackerearth/PHP_c474_0d8a_cc8a_16a4_1511095083/editor_source_3d05_7acc_0628_4249_1511095083.php
+    [id] => 347782
+    [async] => 0
+    [message] => OK
+    [run_status] => Array
+        (
+            [status] => CE
+            [status_detail] => Correct the compilation/syntax errors.
+        )
+
+)
+

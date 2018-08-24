@@ -1,0 +1,32 @@
+Array
+(
+    [errors] => Array
+        (
+        )
+
+    [code_id] => 99ce13P
+    [web_link] => https://code.hackerearth.com/99ce13P
+    [compile_status] => OK
+    [id] => 347781
+    [async] => 0
+    [message] => OK
+    [run_status] => Array
+        (
+            [memory_used] => 64
+            [time_limit] => 5
+            [output_html] => wegik&nbsp;dhf<br>
+            [memory_limit] => 262144
+            [time_used] => 0.101068
+            [signal] => OTHER
+            [status_detail] => NA
+            [status] => AC
+            [stderr] => 
+            [output] => wegik dhf
+
+            [async] => 0
+            [request_NOT_OK_reason] => 
+            [request_OK] => True
+        )
+
+)
+

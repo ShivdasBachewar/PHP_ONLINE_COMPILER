@@ -1,0 +1,13 @@
+<style type="text/css">
+    .navbar-fixed-top{
+      z-index: 5;
+    }
+    .navbar{
+      background-color:#400;
+      border-color: #400; 
+      border-radius: 0;   
+    }
+    .navbar >li >a {
+      padding-top: 20px;
+    }    
+</style>

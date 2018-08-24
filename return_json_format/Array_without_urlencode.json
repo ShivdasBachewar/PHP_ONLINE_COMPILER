@@ -1,0 +1,21 @@
+Array
+(
+    [errors] => Array
+        (
+        )
+
+    [code_id] => a78ef5R
+    [web_link] => https://code.hackerearth.com/a78ef5R
+    [compile_status] => PHP Parse error:  syntax error, unexpected end of file in /hackerearth/PHP_e949_235d_0a32_3f14_1511039396/editor_source_7679_296b_3729_183e_1511039396.php on line 1
+Errors parsing /hackerearth/PHP_e949_235d_0a32_3f14_1511039396/editor_source_7679_296b_3729_183e_1511039396.php
+
+    [id] => a78ef5R
+    [async] => 0
+    [message] => OK
+    [run_status] => Array
+        (
+            [status] => CE
+            [status_detail] => Correct the compilation/syntax errors.
+        )
+
+)

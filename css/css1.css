@@ -1,0 +1,26 @@
+.textarea_css{
+	resize: none;
+	color: white; 
+	border-color:white;  
+	background: rgba(0, 0, 0, 0.8);
+	height: 70%;
+	font-family:  monospace;
+	font-size: 17px;
+}
+
+.h1_css{
+	text-align: center;
+}
+.compile_button_css{
+	font-size: 17px;
+}
+
+.show_specification{
+	color: white; 
+	border-color:white;  
+	background: rgba(0, 0, 0, 0.8);
+	
+	font-family:  monospace;
+	font-size: 17px;
+	border-color: rgba(0,0,0,0.8);
+}
